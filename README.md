@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey!%20I'm%20Himanshu%20Garg%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20•%20Builder%20•%20Curious%20Mind&descAlignY=55&descSize=18"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Learning+something+new+every+day+📚;Code.+Break.+Fix.+Repeat.+🔧;Building+cool+stuff+one+line+at+a+time+🚀;Open+to+collaborate+%26+contribute+🤝;Let's+connect+and+create+together!+✨" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Learning+something+new+every+day+%F0%9F%93%9A;Code.+Break.+Fix.+Repeat.+%F0%9F%94%A7;Building+cool+stuff+one+line+at+a+time+%F0%9F%9A%80;Open+to+collaborate+%26+contribute+%F0%9F%A4%9D;Let%27s+connect+and+create+together!+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -98,23 +96,11 @@ available_for: "Collaborations & Learning Together!"
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/himanshugarg005/himanshugarg005/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshugarg005)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/himanshugarg005)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/himanshugarg005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshugarg005@gmail.com)
 
 </div>
@@ -123,12 +109,10 @@ available_for: "Collaborations & Learning Together!"
 
 <div align="center">
 
-<!-- Random Dev Quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 <br/><br/>
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 **⭐ Star some repos if you find them helpful! Happy Coding! 🚀**
